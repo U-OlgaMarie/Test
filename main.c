@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("111\n");// @TODO: print a sentence you want.
+    printf("main\n");// @TODO: print a sentence you want.
     printf("Hello, world!\n");
 }
